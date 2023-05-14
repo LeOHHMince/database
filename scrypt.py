@@ -1,6 +1,6 @@
 import csv
 import matplotlib.pyplot as plt
-import folium
+import folium 
 
 # Initialiser les variables pour chaque colonne
 nb_vote_blanc = 0
